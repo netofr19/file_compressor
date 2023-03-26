@@ -1,0 +1,3 @@
+Os nós de uma árvore binária possuem graus zero, um ou dois. Um nó de grau zero é denominado folha.
+
+

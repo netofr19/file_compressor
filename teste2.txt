@@ -1,0 +1,10 @@
+Os nós de uma árvore binária possuem graus zero, um ou dois. Um nó de grau zero é denominado folha.
+
+Em uma árvore binária, por definição, cada nó poderá ter até duas folhas, sendo que ela se compara com a ABB (árvore binária de busca), apesar de não ter a propriedade da mesma ("na abb, existe uma regra na inserção").
+
+A profundidade de um nó é a distância deste nó até a raiz. Um conjunto de nós com a mesma profundidade é denominado nível da árvore. A maior profundidade de um nó, é a altura da árvore.
+
+Uma árvore "estritamente binária" é uma árvore na qual todo nó tem zero ou duas folhas.
+
+Existem autores, porém, que adotam essa definição para o termo quase completa, e utilizam o termo completa apenas para árvores em que todos os níveis têm o máximo número de elementos. 
+

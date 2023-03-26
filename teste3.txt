@@ -1,0 +1,5 @@
+Esta página discute o código de Huffman. Trata-se de uma codificação de caracteres que permite compactar arquivos de texto, ou seja, representar um arquivo de texto A por um arquivo de bits B bem menor. O algoritmo de Huffman calcula uma tabela de códigos sob medida para o arquivo A de modo que o arquivo B seja o menor possível.
+
+Começamos por apresentar e resolver um problema abstrato que, à primeira vista, não tem relação com a compactação de arquivos. No fim da página, o algoritmo para o problema abstrato é usado para resolver o problema da compactação de arquivos.
+
+O algoritmo de Huffman é um bom exemplo de algoritmo guloso. O texto desta página é uma versão melhorada da seção 3, capítulo 16, de CLRS. 
